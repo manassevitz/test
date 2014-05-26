@@ -2,16 +2,8 @@
 1.1 linea
 1.2 linea
 ## developer 
-
-
 1.2.1.1
 hola a todos
-
-sin el origin
-
-
-
-
 ## fin developer
 1.2.1 linea
 1.3 linea
